@@ -1,0 +1,16 @@
+OrderID,Date,CustomerName,Gender,Age,Product,Category,Quantity,UnitPrice,Total,City
+1001,2024-01-05,Ali Khan,Male,28,Laptop,Electronics,1,800,800,Karachi
+1002,2024-01-05,Sara Ahmed,Female,22,Headphones,Electronics,2,50,100,Lahore
+1003,2024-01-06,Ali Khan,Male,28,Laptop,Electronics,1,800,800,Karachi
+1004,2024-01-06,Muhammad Usman,Male,35,Shoes,Fashion,1,60,60,Islamabad
+1005,2024-01-07,Ayesha Malik,Female,30,Dress,Fashion,2,40,80,Lahore
+1006,2024-01-07,Ali Khan,Male,28,Laptop,Electronics,1,800,800,Karachi
+1007,2024-01-08,Ahmed Raza,Male,40,Refrigerator,Appliances,1,500,500,Karachi
+1008,2024-01-08,Sara Ahmed,Female,22,Headphones,Electronics,2,50,100,Lahore
+1009,2024-01-09,,Female,27,Microwave,Appliances,1,150,150,Islamabad
+1010,2024-01-10,Zain Ali,Male,,Shoes,Fashion,2,60,120,Lahore
+1011,2024-01-10,Ali Khan,Male,28,Laptop,Electronics,1,800,800,Karachi
+1012,2024-01-11,Muhammad Usman,Male,35,Dress,Fashion,1,40,40,Islamabad
+1013,2024-01-12,Ayesha Malik,Female,30,Blender,Appliances,1,100,100,Lahore
+1014,2024-01-13,Sara Ahmed,Female,22,Laptop,Electronics,1,800,800,Lahore
+1015,2024-01-13,Ahmed Raza,Male,40,Refrigerator,Appliances,1,500,500,Karachi
